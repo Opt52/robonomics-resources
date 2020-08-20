@@ -27,4 +27,4 @@ docker run -dit --name robonomics-NICKNAME \
 `docker logs -f robonomics-NICKNAME`  
 If you successfully launch, you'll see something similar  
 При успешном запуске вы увидите похожий вывод  
-https://i.imgur.com/BZYNSxZ.png
+![alt text](https://github.com/c29r3/robonomics-resources/blob/master/2020-08-20_23-39.png)
