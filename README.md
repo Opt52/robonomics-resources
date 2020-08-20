@@ -27,4 +27,8 @@ docker run -dit --name robonomics-NICKNAME \
 `docker logs -f robonomics-NICKNAME`  
 If you successfully launch, you'll see something similar  
 При успешном запуске вы увидите похожий вывод  
-![alt text](https://github.com/c29r3/robonomics-resources/blob/master/2020-08-20_23-39.png)
+![alt text](https://github.com/c29r3/robonomics-resources/blob/master/2020-08-20_23-39.png)  
+
+4. Find your node by a nickname\address in telemetry at https://telemetry.polkadot.io/#list/Robonomics  
+  Находим себя по никнэйму или адресу в телеметрии по адресу https://telemetry.polkadot.io/#list/Robonomics
+
