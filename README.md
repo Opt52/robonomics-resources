@@ -8,10 +8,10 @@
 
 2. Run docker container  
    Запуск докер контейнера  
-Replace the `NICKNAME` with the nickname which will be displayed in telemetry
-Меняем `NICKNAME` на свой никнэйм, который будет отображаться в телеметрии 
-Replace the `ETH_ADDRESS` with the ETH address which will be displayed in telemetry
-Меняем `ETH_ADDRESS` на свой адрес, который будет отображаться в телеметрии 
+Replace the `NICKNAME` with the nickname which will be displayed in telemetry  
+Меняем `NICKNAME` на свой никнэйм, который будет отображаться в телеметрии  
+Replace the `ETH_ADDRESS` with the ETH address which will be displayed in telemetry  
+Меняем `ETH_ADDRESS` на свой адрес, который будет отображаться в телеметрии  
 
 ```
 mkdir ~/robonomics; \
