@@ -6,8 +6,8 @@
    Установка докера
 `sudo apt update && sudo apt install -y docker.io`
 
-2. Run docker container
-   Запуск докер контейнера
+2. Run docker container  
+   Запуск докер контейнера  
 Replace the `NICKNAME` with the nickname that you selected when you sign up (google form)  
 Меняем `NICKNAME` на свой никнэйм, который вы указывали при регистрации в гугл форме  
 Replace the `ETH_ADDRESS` with the ETH address that you selected when you sign up (google form)  
