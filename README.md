@@ -1,6 +1,6 @@
 # robonomics-resources
 
-# Install Robonomics using docker
+#  Run Robonomics using docker
 
 1. Install docker  
    Установка докера
