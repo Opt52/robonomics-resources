@@ -8,10 +8,10 @@
 
 2. Run docker container  
    Запуск докер контейнера  
-Replace the `NICKNAME` with the nickname that you selected when you sign up (google form)  
-Меняем `NICKNAME` на свой никнэйм, который вы указывали при регистрации в гугл форме  
-Replace the `ETH_ADDRESS` with the ETH address that you selected when you sign up (google form)  
-Меняем `ETH_ADDRESS` на свой адрес, который указывали при регистрации  
+Replace the `NICKNAME` with the nickname which will be displayed in telemetry
+Меняем `NICKNAME` на свой никнэйм, который будет отображаться в телеметрии 
+Replace the `ETH_ADDRESS` with the ETH address which will be displayed in telemetry
+Меняем `ETH_ADDRESS` на свой адрес, который будет отображаться в телеметрии 
 
 ```
 mkdir ~/robonomics; \
