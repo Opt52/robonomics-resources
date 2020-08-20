@@ -30,5 +30,5 @@ If you successfully launch, you'll see something similar
 ![alt text](https://github.com/c29r3/robonomics-resources/blob/master/2020-08-20_23-39.png)  
 
 4. Find your node by a nickname\address in telemetry at https://telemetry.polkadot.io/#list/Robonomics  
-  Находим себя по никнэйму или адресу в телеметрии по адресу https://telemetry.polkadot.io/#list/Robonomics
+  Находим себя по никнэйму или адресу в телеметрии https://telemetry.polkadot.io/#list/Robonomics
 
