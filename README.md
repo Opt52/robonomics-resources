@@ -23,7 +23,7 @@ docker run -dit --name robonomics-NICKNAME \
 ```
 
 3. Check that container started properly  
-Проверяем что контейнер запустился корректно (смотрим логи)
+Проверяем что контейнер запустился корректно (смотрим логи)  
 `docker logs -f robonomics-NICKNAME`  
 If you successfully launch, you'll see something similar  
 При успешном запуске вы увидите похожий вывод  
