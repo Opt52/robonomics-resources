@@ -18,7 +18,7 @@ mkdir ~/robonomics; \
 docker run -dit --name robonomics-NICKNAME \
 -p 9947:9944 -p 9937:9933 -p 30337:30333 \
 --volume /root/robonomics:/root/.local/share/robonomics \
---restart=always c29r3/robonomics-node:latest \
+--restart=always c29r3/robonomics-node:v0.21.0 \
 /root/source/robonomics --chain parachain --name "NICKNAME | ETH_ADDRESS"
 ```
 
